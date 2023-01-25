@@ -1,0 +1,17 @@
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This looks pretty good, William. You obviously should have gotten the git things working before hand, but given that you were dealing with a broken computer, I suppose this is fine. :)
+
+I add a .gitignore file so you won't be tracking .class and .ctxt files anymore. I obviously added this comments_from_instructor file.
+
+What I'd *really* change in your program, however, is the "removeLiked()" method. Why would you want to remove the songs you like? That makes no sense! Justin did the same thing, and I'm wondering if you all shared ideas on that... or maybe were working together/separately.
+
+In any event, keep up the good work!
+
+SCORE: 19/20
+
+*/
+
